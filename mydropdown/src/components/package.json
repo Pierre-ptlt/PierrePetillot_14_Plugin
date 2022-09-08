@@ -1,0 +1,11 @@
+{
+  "name": "pierre-ptlt-dropdown",
+  "version": "1.0.0",
+  "description": "dropdown menus",
+  "main": "Dropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pierre_ptlt",
+  "license": "ISC"
+}
